@@ -1,0 +1,6 @@
+name: AreaFinder
+main: fr.gaston147.areafinder.AreaFinder
+version: 1.0
+
+commands:
+   findarea: {}
